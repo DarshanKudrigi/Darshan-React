@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: #aaff00;
+}
+html,
+body{
+   height: 100%;
+   width: 100%;
+   background-color: #000000;
+}
+
+h1 {
+  color: #ff0000;
+}
